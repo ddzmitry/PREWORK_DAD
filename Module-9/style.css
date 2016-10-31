@@ -1,0 +1,38 @@
+h1 {text-align: center;}
+
+
+p.green {
+	color: green;
+}
+
+p.small{
+	font-size: 5px;
+}
+
+p.bold {
+    font-weight: bold;
+}
+p.boldAndCreative{
+	font-weight: bold;
+	font-family: cursive;
+}
+p.multiple{
+	font-size: 40px;
+	color: yellow;
+	font-weight: bold;
+}
+p.styledFont{
+	font-family: fantasy;
+		color: red;}
+.picFrame{ 
+    height:300px; 
+    width: :200px;
+     display: block;
+     margin-right: auto;
+     margin-left: auto;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 10px;
+    transition: 0.3s;
+    box-shadow: 0 0 2px 1px;
+}
