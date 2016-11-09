@@ -1,8 +1,15 @@
-document.getElementById("button1").addEventListener("click", function(){
+/*document.getElementById("button1").addEventListener("click", function(){
 
     document.getElementById("box").style.height = "300px";
 
-});
+});*/
+
+ document.getElementById("button1").addEventListener("click", function(){
+
+       document.getElementById("box").style.height = "250px";
+
+   });
+
 
 
 document.getElementById("button2").addEventListener("click", function(){

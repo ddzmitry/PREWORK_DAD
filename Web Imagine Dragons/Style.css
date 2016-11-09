@@ -1,0 +1,108 @@
+/*Elements CSS*/
+html {
+	background-image: url(IMG.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+body {
+	font-family: Georgia, Geneva, sans-serif;
+	font-size: 100%;
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 4em 4em 0;
+	line-height: 2;
+
+}
+h1 {
+	font: 2em Georgia, Geneva, sans-serif;
+	margin-bottom: .4em;
+	color: maroon;
+	text-align: center;
+	padding-top: 1.6em;
+	background-repeat: no-repeat;
+
+}
+
+h2 {
+	font: 3.2em Georgia, "Times New Roman", Times, serif;
+	margin-bottom: .2em;
+}
+
+p {
+	margin-bottom: 1em;
+	text-align: left;
+	color: white;
+}
+a {
+	color: rgb(184, 126, 84);
+}
+a:hover {
+	color: maroon;
+}
+a:visited {
+	color: #C17070;
+}
+/* Classes CSS */
+.Introducroty {
+	font-family: Georgia;
+	padding: .5em;
+	border: 0.2em;
+	text-indent: 1em;
+
+}
+.banner {
+	height: 3em;
+	background-image: url(banner.jpg);
+	opacity: .5;
+}
+
+
+}
+.Artist {
+	color: red;
+	background-image:
+	margin: 1em;
+	border: 1em;
+
+
+}
+.culture {
+	font-family: Georgia;
+}
+/*Footer CSS*/
+.footer {
+  width: 100%;
+  position: bottom;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1em;
+  background-color: #efefef;
+  text-align: left;
+}
+
+.Tweet {
+ position: right;
+ float: right;
+
+
+
+}
+.Instagram {
+	position: right;
+	float: right;
+	margin: .1em;
+}
+.video {
+	float: right;
+	opacity: .8;
+
+}
+
+/*ID's CSS*/
+#Navigation {
+	background-color: white;
+	opacity:.5;
+	margin: 3em;
+	width: 400px;
